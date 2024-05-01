@@ -1,8 +1,6 @@
 # Hi, I am Ewa 👋
 
-## About Me
-
-🏗️ Architect turned Data Enthusiast 📊 | Stockholm 🇸🇪 
+## 🏗️ Architect turned Data Enthusiast 📊 | Stockholm 🇸🇪 
 
 An experienced architect who one day stumbled upon the captivating world of data.
 
