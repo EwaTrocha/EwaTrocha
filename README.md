@@ -4,7 +4,7 @@
 
 🏗️ Architect turned Data Enthusiast 📊 | Stockholm 🇸🇪 
 
-Experienced architect that one day discovered fascinating world of data. 
+An experienced architect who one day stumbled upon the captivating world of data.
 
 🐾 Proud owner of two black cats :cat2: :cat2:
 
