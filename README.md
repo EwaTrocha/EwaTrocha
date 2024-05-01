@@ -6,7 +6,7 @@
 
 An experienced architect who one day stumbled upon the captivating world of data.
 
-🐾 Proud owner of two black cats :cat2: :cat2:
+🐾 Proud owner of two cats :cat2: :cat2:
 
 ## Tools I Use
 
