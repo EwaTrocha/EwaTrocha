@@ -1,4 +1,4 @@
-### Hi, I am Ewa 👋
+# Hi, I am Ewa 👋
 
 ## About Me
 
