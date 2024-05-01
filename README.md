@@ -9,6 +9,6 @@ An experienced architect who one day stumbled upon the captivating world of data
 ## Tools I Use
 
 🛠️ **Data Analysis**: SQL, Python, Excel  
-📈 **Visualization**: Matplotlib, , Tableau, Plotly  
+📈 **Visualization**: Tableau, Plotly, Matplotlib  
 📊 **Data Manipulation**: Pandas, NumPy  
 💻 **Other**: GeoPandas, Folium, QGis
