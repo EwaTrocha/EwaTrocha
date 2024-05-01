@@ -12,3 +12,4 @@ An experienced architect who one day stumbled upon the captivating world of data
 📈 **Visualization**: Tableau, Plotly, Matplotlib  
 📊 **Data Manipulation**: Pandas, NumPy  
 💻 **Other**: GeoPandas, Folium, QGis
+💬 **Let's Connect** [LinkedIn](https://www.linkedin.com/in/ewa-trocha-arch-data/)
