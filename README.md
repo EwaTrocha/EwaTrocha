@@ -2,7 +2,7 @@
 
 # Hi, I am Ewa 👋
 
-### 🏗️ Architect turned Data Enthusiast 📊 | Stockholm 🇸🇪 
+### Data Analyst 📊 | Stockholm 🇸🇪 
 
 Hey there! I’m Ewa, an architect who fell in love with the world of data. My background in architecture taught me the importance of creativity, precision, and problem-solving. Now, I’m channeling those skills into data analytics, where I can dive deep into data sets, uncover patterns, and create strategies that make a real difference.
 
@@ -11,8 +11,8 @@ Hey there! I’m Ewa, an architect who fell in love with the world of data. My b
 ## Tools I Use
 
 🛠️ **Data Analysis**: SQL, Python, Excel  
-📈 **Visualization**: Tableau, Plotly, Matplotlib  
+📈 **Visualization**: Tableau, Looker Studio, Plotly, Matplotlib  
 📊 **Data Manipulation**: Pandas, NumPy  
-💻 **Other**: GeoPandas, Folium, QGis  
+💻 **Other**: Snowflake, Azure
 💬 **Let's Connect** [LinkedIn](https://www.linkedin.com/in/ewa-trocha-arch-data/)
 
